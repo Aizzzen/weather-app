@@ -1,16 +1,20 @@
 React-приложение предоставляет сведения о погоде.
 
 
+Ссылка на развернутое приложение: https://tsweatherapp.netlify.app/
+
+
+
 Написано с использованим:
 
-  -Typescript
+  - Typescript
 
-  -React
+  - React
   
-  -Redux
+  - Redux
   
-  -React-redux
+  - React-redux
   
-  -Redux-thunk
+  - Redux-thunk
   
-  -API OpenWeather
+  - API OpenWeather
